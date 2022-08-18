@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ismetozkan
-- 👀 I’m interested in C, php, python and also programming MCU boards with C.
-- 🌱 I’m currently learning laravel framework
+- 👀 I’m working on HTML, CSS, JavaScript, Laravel and I also interested in Machine Learning with Python, RaspberryPi and MCU boards with C.
+- 🌱 I’m currently learning Svelte
+
 - 📫 ismetozkan32@hotmail.com
 
 <!---
