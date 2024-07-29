@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ismetozkan
-- 👀 I’m working on HTML, CSS, JavaScript, Laravel and I also interested in Machine Learning with Python, RaspberryPi and MCU boards with C.
-- 🌱 I’m currently learning Svelte
+- 👀 PHP | Wordpress | API Connections | Laravel | JS.
 
-- 📫 ismetozkan32@hotmail.com
+- 📫 ismetozkan0@outlook.com
 
 <!---
 ismetozkan/ismetozkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
