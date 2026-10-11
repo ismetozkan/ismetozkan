@@ -1,10 +1,4 @@
-### ~/ismetozkan.com
-
-```console
-$ whoami
-Ismet Ozkan — Full-Stack Developer & AI Specialist
-@ District 35 (formerly Social Brothers · WP Brothers) · Utrecht, NL
-```
+<a href="https://ismetozkan.com"><img src="./banner.svg" alt="$ whoami — Ismet Ozkan, Full-Stack Developer &amp; AI Specialist @ District 35 · Utrecht, NL" width="100%"></a>
 
 I build web software end to end, from the database to the model: PHP, Laravel and WordPress
 on the backend, a modern frontend, and AI tooling woven into the daily work.
